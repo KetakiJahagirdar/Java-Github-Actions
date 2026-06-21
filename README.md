@@ -1,1 +1,1 @@
-# Java-Github-Actions
+# github-actions-example
